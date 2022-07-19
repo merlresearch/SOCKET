@@ -1,0 +1,27 @@
+# Copyright (C) 2022 Mitsubishi Electric Research Laboratories (MERL)
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+name: socket
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pillow
+  - pip
+  - python=3.6.10
+  - pyyaml
+  - scipy
+  - tqdm
+  - yaml
+  - pytorch=1.8.1
+  - torchvision=0.9.1
+  - cudatoolkit=10.2.89
+  - pre-commit
+  - black
+  - flake8
+  - pytest
+  - pip:
+      - scikit-learn

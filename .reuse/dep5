@@ -1,0 +1,15 @@
+
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: data/example_dataset/blue/circle/*.png
+       data/example_dataset/blue/square/*.png
+       data/example_dataset/red/circle/*.png
+       data/example_dataset/red/square/*.png
+       data/example_dataset/TI_blue/triangle/*.png
+       data/example_dataset/TI_red/triangle/*.png
+       data/example_dataset/blue_list.txt
+       data/example_dataset/red_list.txt
+       data/example_dataset/TI_blue_list.txt
+       data/example_dataset/TI_red_list.txt
+Copyright: 2021-2022 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later

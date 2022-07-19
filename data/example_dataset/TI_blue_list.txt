@@ -1,0 +1,10 @@
+../data/example_dataset/TI_blue/triangle/0.png 0
+../data/example_dataset/TI_blue/triangle/1.png 0
+../data/example_dataset/TI_blue/triangle/2.png 0
+../data/example_dataset/TI_blue/triangle/3.png 0
+../data/example_dataset/TI_blue/triangle/4.png 0
+../data/example_dataset/TI_blue/triangle/5.png 0
+../data/example_dataset/TI_blue/triangle/6.png 0
+../data/example_dataset/TI_blue/triangle/7.png 0
+../data/example_dataset/TI_blue/triangle/8.png 0
+../data/example_dataset/TI_blue/triangle/9.png 0
